@@ -88,7 +88,7 @@ section{
    }
    .contact-me{
        text-align: center;
-       background-color: rgb(235, 235, 235);
+       background-color: rgb(245, 243, 243);
        padding-top: 50px;
    }
   
@@ -99,6 +99,9 @@ section{
 footer p{
     text-align: center;
     font-size: 12px;
+}
+#reserved{
+    padding-top: 100px;
 }
 
 
