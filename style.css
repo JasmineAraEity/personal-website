@@ -85,9 +85,17 @@ section{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+   }
+   .contact-me{
+       text-align: center;
+       background-color: rgb(235, 235, 235);
+       padding-top: 50px;
+   }
+  
+    input:focus {
+        background-color:rgb(81, 245, 81);
+      }
    
-    
-  }
 footer p{
     text-align: center;
     font-size: 12px;
