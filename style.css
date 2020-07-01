@@ -8,8 +8,7 @@ h1{
 
 .name-highlight{
     color:rgba(255, 0, 128, 0.904);
-    font-family: 'Lobster', cursive;
-    font-family: 'Roboto', sans-serif;
+
 }
 .half-width{
     width: 40%;
@@ -73,7 +72,8 @@ section{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
     background-position: center;
-    padding: 100px;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 .client-box {
     background-color: rgba(235, 53, 144, 0.904);
